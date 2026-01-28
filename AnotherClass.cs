@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace GitFun
+{
+    internal class AnotherClass
+    {
+        public void AnotherMethod()
+        {
+            Console.WriteLine("This is another method in AnotherClass.");
+        }
+    }
+}
